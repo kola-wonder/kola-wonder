@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Kola Wonder
 
-<!--
-**kola-wonder/kola-wonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer focused on building robust, scalable solutions in **Distributed Systems**, **Security Auditing**, and **Automation**. I enjoy tackling complex technical challenges and contributing to open-source ecosystems.
 
-Here are some ideas to get you started:
+## 🛠 Expertise
+- **Languages:** Python, JavaScript/TypeScript, Rust, Solidity
+- **Specializations:** Backend Development, Security Best Practices, CI/CD Automation
+- **Current Interests:** High-performance systems and decentralized infrastructure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Open Source Activity
+I am actively contributing to various open-source projects, focusing on:
+- Infrastructure refactoring
+- Security vulnerability remediation
+- System performance optimization
+
+---
+*Connect with me via GitHub Issues or PRs.*
